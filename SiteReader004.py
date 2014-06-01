@@ -9,7 +9,7 @@ import json
 SITE READER V0.4
 BY: MICHAEL GAILLING
 
-A simple nd yet incomplete html parser.
+A simple and yet incomplete html parser.
 Copyright (C) 2014  Michael Gailling
 
 VERSION 0.4 NOTES:
