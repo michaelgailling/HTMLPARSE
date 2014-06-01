@@ -1,5 +1,5 @@
 HTMLPARSE
 =========
 
-Very simple HTML Parser writeen in python
+Very simple HTML Parser written in python
 You WILL need the requests library for this work.
