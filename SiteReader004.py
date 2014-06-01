@@ -9,6 +9,9 @@ import json
 SITE READER V0.4
 BY: MICHAEL GAILLING
 
+A simple nd yet incomplete html parser.
+Copyright (C) 2014  Michael Gailling
+
 VERSION 0.4 NOTES:
 -Replaced urllib with requests and json! Seriously, fuck urllib
 -Requests stability has allowed me to roll the call to the site into a function called dlsite
