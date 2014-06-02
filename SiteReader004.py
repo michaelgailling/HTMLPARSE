@@ -5,6 +5,7 @@ homedir = os.path.abspath('') + "/"
 
 import requests
 import json
+
 """
     SITE READER V0.4
     BY: MICHAEL GAILLING
