@@ -28,7 +28,7 @@ import json
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 VERSION 0.4 NOTES:
--Replaced urllib with requests and json! Seriously, fuck urllib
+-Replaced urllib with requests and json! Seriously, f urllib
 -Requests stability has allowed me to roll the call to the site into a function called dlsite
 -still need ui
 -need parsing for scripts. new lines not being generated appropriately
@@ -105,6 +105,6 @@ def outputCode(x):
                                             #CLOSE
                                             #THE
                                             #FILE
-                                            #... Shit Head! Corrupt files are a bitch
+                                            # Corrupt files are a bitch
 
 outputCode(dlsite("http://youtube.com"))
